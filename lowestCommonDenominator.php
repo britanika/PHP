@@ -6,7 +6,6 @@ $b = readline('Enter the second number: ');
 $c=(int)$a;
 $d=(int)$b;
 $v=$c*$d;
-$tmp;
 while($d!=0){
     $tmp=$c;
     $c=$d;
