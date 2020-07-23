@@ -3,7 +3,7 @@ $a = readline();
 $b = readline();
 $c = (int) $a;
 $d = (int) $b;
-$matirx;
+$matrix=[];
 for ($i = 0; $i < $c; $i ++) {
     for ($j = 0; $j < $d; $j ++) {
         $f = readline();
